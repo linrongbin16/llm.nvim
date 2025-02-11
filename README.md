@@ -62,7 +62,7 @@
 
 <!-- mtoc-end -->
 
-## Screenshots
+## Features
 
 ### Chat
 <p align= "center">
