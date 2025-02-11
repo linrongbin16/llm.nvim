@@ -22,7 +22,7 @@
 # Contents
 <!-- mtoc-start -->
 
-* [Screenshots](#screenshots)
+* [Features](#features)
   * [Chat](#chat)
   * [Code Completions](#code-completions)
   * [Quick Translation](#quick-translation)
